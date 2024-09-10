@@ -1,0 +1,6 @@
+0,Pitesti
+1,Bucuresti
+2,Cluj-Napoca
+3,Timisoara
+4,Iasi
+5,Constanta

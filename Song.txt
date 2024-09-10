@@ -1,0 +1,5 @@
+Shape of You,Ed Sheeran,1500,240,1
+Blinding Lights,The Weeknd,2000,200,0
+Someone Like You,Adele,1200,285,1
+Despacito,Luis Fonsi,2500,230,0
+Havana,Camila Cabello,1700,210,1

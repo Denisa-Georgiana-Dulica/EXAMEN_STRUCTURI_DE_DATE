@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="LISTA_SIMPLA.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LISTA_DUBLA_SUBIECT_1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="HashTableChaning_Subiect2024.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="HashTableLiniarProbing.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Stiva.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Coada.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lista_de_liste_RESTANTA_2024.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lista_circulara.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Heap.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="arbore_binar_de_cautare.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ArboreBinarDeCautare_RESTANTA2024.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="arbore_avl.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="HashTableSubiect2023.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Graf_subiect23.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ArboreAVL.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Graf.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Lista_Dubla_bilet2_2023.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ListaDeListe_bilet7_2023.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Arbore_binar_cautare.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

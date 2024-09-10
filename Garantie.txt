@@ -1,0 +1,6 @@
+Produs1,2,0,Service1
+Produs2,3,1,Service2
+Produs3,4,0,Service3
+Produs4,5,1,Service4
+Produs5,6,1,Service1
+Produs6,7,0,Service2

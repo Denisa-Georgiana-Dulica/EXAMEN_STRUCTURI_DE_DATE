@@ -1,0 +1,6 @@
+2024-06-09,Dr. Popescu,Cardiologie,Aritmie,150
+2024-06-10,Dr. Ionescu,Ortopedie,Entorsa,200
+2024-06-11,Dr. Vasilescu,Neurologie,Epilepsie,180
+2024-06-13,Dr. Popescu,Cardiologie,Infarct miocardic,300
+2024-06-13,Dr. Ionescu,Ortopedie,Entorsa,180
+2024-06-15,Dr. Vasilescu,Neurologie,Migrena,150

@@ -1,0 +1,3 @@
+1,ING,2000,300,Carpenului,a
+2,Transilvania,3000,200,Nicolae Balcescu,b
+3,BRD,4000,100,stradaceva,c

@@ -1,0 +1,6 @@
+1,Dulica Denisa,Limbi Straine,10,300000
+2,Dinita Cosmina,CSIE,9,4000
+3,Dinca David,Drept,8.50,9000
+4,Dincu Georgiana,Sport,7.40,600
+5,Doru Alexandru,Litere,8.05,5000
+6,Anton Andrei,CSIE,5.80,500

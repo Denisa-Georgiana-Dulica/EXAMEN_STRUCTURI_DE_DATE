@@ -1,0 +1,2 @@
+1,2,Nurofen Raceala;Ibuprofen,1;2,10.88;20.99,10;5,Popa Mihai
+2,3,Magneziu A;Decasept;Teraflu,1;2;1,19.05;20.50;39.80,10;5;15,Popa Mihai
